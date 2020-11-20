@@ -3,7 +3,7 @@
  
  * João Pedro Martins Ferreira R.A: 218762
  
- * Este programa serve para utilizar a USART afim de transmitir uma
+ * Este programa serve para utilizar a USART a fim de transmitir uma
  * mensagem ao computador que informe o estado do botao
  */
 
