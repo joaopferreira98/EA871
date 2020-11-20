@@ -1,4 +1,4 @@
-/* Microcontrolador usando USART para transmicao de uma
+/* Microcontrolador usando USART para transmissao de uma
  * mensagem ao computador que informe o estado do botao
  
  * João Pedro Martins Ferreira R.A: 218762
